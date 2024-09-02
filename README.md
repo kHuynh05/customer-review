@@ -1,0 +1,3 @@
+I am creating a customer review that is going to cover the current restraunt that I work at. I am going to be using python to grab data using API keys and sorting it into xls sheets. I will the be using the xls sheet to visualize the data into more engaging and appealing graphs using tableau and sql.
+
+I learned to keep the API key I am using a secret through a .env file which will allow git to ignore the file. 

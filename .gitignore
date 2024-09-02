@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.virtualenv
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+*.csv
+*.xlsx
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
