@@ -7,3 +7,6 @@ I found the PLACE ID for each tumble 22 location by creating a python script cal
 By finding the PLACE ID, I was able to request 5 reviews from the Google PLACE API. I wanted to grab all of the reviews for each location but I realized that Googld Place API restricted the amount of request I could pass as I would need to have access from the buisness owner. After getting the json file, I was able to fetch the reviews and store them into a csv file.
 
 I will now be using the csv file to visualize the data even though its not much. I will be using it as practice.
+
+I finished the tableau data visualization of the customer reviews. If there was more data, I would've been able to provide more practical use for it.
+![Dashboard 1](https://github.com/user-attachments/assets/676a1ff0-b723-499c-989a-85dd214c53b6)
