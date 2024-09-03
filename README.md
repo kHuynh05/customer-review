@@ -9,4 +9,5 @@ By finding the PLACE ID, I was able to request 5 reviews from the Google PLACE A
 I will now be using the csv file to visualize the data even though its not much. I will be using it as practice.
 
 I finished the tableau data visualization of the customer reviews. If there was more data, I would've been able to provide more practical use for it. Here is the link to the public tableau project: [customer review](https://public.tableau.com/app/profile/kenrich.huynh/viz/Tumble22CustomerReview/Dashboard1)
+
 ![Dashboard 1](https://github.com/user-attachments/assets/676a1ff0-b723-499c-989a-85dd214c53b6)
